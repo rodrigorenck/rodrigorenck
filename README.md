@@ -1,4 +1,4 @@
-## 👾 Hi there I'm Rodrigo! ##
+## 👾 Hi there, I'm Rodrigo! ##
 ✨ I've always been a great problem solver, passionate about technology and studying, I ended up finding myself in the world of development. 
 
 😎 I'm currently studying Computer Information Systems at PUC-RS and I'm an intern at NTConsult where I have the opportunity to learn with experienced people. 💙
