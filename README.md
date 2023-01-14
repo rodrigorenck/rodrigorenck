@@ -6,11 +6,6 @@
 👽 My main focus at the moment is to learn Java, focused on Spring Framework.
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/rodrigo-renck-81509921a/)
-<div align="center">
-  <a href="https://github.com/rodrigorenck">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rodrigorenck&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigorenck&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
   ## **💻 Tech knowledge, always learning** 🧠
   <div style="display: inline_block"><br>
